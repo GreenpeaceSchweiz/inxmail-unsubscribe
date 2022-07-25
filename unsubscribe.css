@@ -1,0 +1,56 @@
+.page-header
+{
+	display: none;
+}
+
+.submit
+{
+	margin-top: 48px;
+}
+
+.submit
+{
+	margin-right: 10px;
+	width: auto !important;
+}
+
+.inxform hr
+{
+	margin-top: 3rem;
+}
+
+@media screen and (min-width: 992px)
+{
+	.nav-search-wrap .top-nav-search-btn
+	{
+		top: 10px;
+	}
+}
+
+.testmode
+{
+	color: #cd1719;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+
+.highlite
+{
+	color: #3290de;
+	font-weight: bold;
+}
+
+.nav-languages-toggle:after
+{
+	-webkit-mask-image: url(chevron.svg);
+}
+
+.nav-languages .current-language a:after
+{
+	-webkit-mask-image: url(checkmark.svg);
+}
+
+.swp_social_panel
+{
+	display: none !important;
+}
